@@ -15,3 +15,6 @@ Funcionalidades:
 - Criar Task
 - Completar task
 - Deletar Task
+<hr>
+
+Feito com 💜 por <a href="https://www.linkedin.com/in/rafael-freitas-65382420b/">Rafael Freitas</a>
